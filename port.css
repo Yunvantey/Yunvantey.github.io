@@ -1,0 +1,30 @@
+p, a {
+    font-family: 'Fira Code', monospace;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+#tg, #email, .download {
+    color: #999999;
+}
+
+#tg:hover {
+    color: #ff4545;
+}
+
+#email:hover {
+    color: #009ff4;
+}
+
+.download:hover {
+    color: #ff46b0;
+}
+
+.ellipse {
+    position: absolute;
+    width: 70%;
+}
+
+#pic {
+    width: 100%;
+}
